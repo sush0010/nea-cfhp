@@ -7,9 +7,8 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About Cfhp
+
+  - title: About CFHP
     url: /about-cfhp/
   - title: How To Apply
     url: /how-to-apply/
@@ -17,5 +16,9 @@ links:
     collection: retailers
   - title: Resources
     collection: resources
+  - title: Yvan
+    collection: yvantseng
   - title: News
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/

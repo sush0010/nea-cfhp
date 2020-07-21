@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: NEA and PUB
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        - 40 Scotts Rd
+        - Environment Building Building
+        - Singapore 228231
+    maps_link: https://www.google.com/maps/place/NEA/@1.3102445,103.8340043,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ec53b2ebfb:0x1eaefdb0131ac1e!8m2!3d1.3102391!4d103.836193
+    
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
----
+  - title: NEA General Enquiries & Feedback
+    - phone: +65 6225 5632
+    - Feedback Form: https://www.nea.gov.sg/corporate-functions/feedback
+  - title: PUB General Enquiries & Feedback
+    - phone: 1800-2255-782
+    - Feedback Form: https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx

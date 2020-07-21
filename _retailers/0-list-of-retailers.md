@@ -1,4 +1,4 @@
 ---
-title: List Of Retailers
+title: List of Retailers
 permalink: /retailers/list-of-retailers/
 ---

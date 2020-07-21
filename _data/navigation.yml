@@ -16,8 +16,6 @@ links:
     collection: retailers
   - title: Resources
     collection: resources
-  - title: Yvan
-    collection: yvantseng
   - title: News
     resource_room: true
   - title: Contact Us

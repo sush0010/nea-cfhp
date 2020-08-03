@@ -7,7 +7,7 @@ permalink: /
 notification: This site is still under maintenance
 sections:
     - hero:
-        title: Fight Climate-change and Save Money
+        title: Fight Climate Change and Save Money
         subtitle: Climate vouchers available from September 2020 to December 2023
         background: /images/energy-efficiency-package_resized.jpg
         button: APPLY NOW
